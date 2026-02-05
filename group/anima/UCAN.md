@@ -29,7 +29,7 @@ To transform this somewhat abstract Autonomic Networking concept into concrete, 
 
 The UCAN BOF is intended to expose several use cases to community review and to identify other possible use cases. Several use cases assume that some sort of general discovery and negotiation protocol is available. The goal of the UCAN BoF is NOT to develop solutions for the use cases listed. However, the type of solution envisaged, its design goals, and sketches of solution approaches will be covered.
 
-The next stage will be to consolidate the use cases and to to extract common requirements for an autonomic infrastructure. These requirements are in the following areas:
+The next stage will be to consolidate the use cases and to extract common requirements for an autonomic infrastructure. These requirements are in the following areas:
 
 - identity of nodes
 - a common security model

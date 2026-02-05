@@ -80,7 +80,7 @@ Suggested changes:
 Resolved with the following comments in section 4, last paragraph: 
 
     When using the protocol extensions introduced in this document,
-   scalability SHOULD be considered since it may increase the the amount
+   scalability SHOULD be considered since it may increase the amount
    of control plane information(i.e., the BGP messages) exchanged
    between the network controller and the headend nodes.
    

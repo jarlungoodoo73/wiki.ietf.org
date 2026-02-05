@@ -34,7 +34,7 @@ Topics to covered include:
 
 ## Setting up initial wikis
 
-## Creating andd updating documentation 
+## Creating and updating documentation 
 
 ## Suggesting sitewide features
 * Sitewide navigation (including footer link)

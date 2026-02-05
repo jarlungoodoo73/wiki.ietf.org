@@ -129,7 +129,7 @@ Proposed work items include but are not limited to:
 - Generic use cases of Autonomic Network and new GRASP extensions/options for them, including but not limited to bulk transfer, DNS-SD interworking, autonomic resource management, autonomic SLA assurance, autonomic multi-tenant management, autonomic network measurement, and etc.
 - Integration with Network Operations Centers (NOCs), including autonomic discovery/connectivity to NOC, YANG-based ANI/ASA management by the NOC and reporting and reporting AF from node to NOC.
 
-The initial set of milestones targets documents for the the following topics.
+The initial set of milestones targets documents for the following topics.
 
 - Lifecycle and Management of Autonomic Service Agents (ASA)
 - Guidelines for developing Autonomic Service Agents (ASA)

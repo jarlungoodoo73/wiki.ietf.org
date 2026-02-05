@@ -12,7 +12,7 @@ dateCreated: 2023-01-22T02:57:28.560Z
 ## Requirements
 ### IGP REQ-01
 - what: I2RS Client should be able to read/write
-the the unique IGP identification for router within an AS (router- id, system-id, or others). I2RS agents may notify the I2RS client of the detection of another router with the same unique ID.
+the unique IGP identification for router within an AS (router- id, system-id, or others). I2RS agents may notify the I2RS client of the detection of another router with the same unique ID.
 
 1) read and write of router-id per OSPF routing instance
 	- [draft-ietf-ospf-yang-reference](http://tools.ietf.org/html/draft-ietf-ospf-yang-reference) for router-id

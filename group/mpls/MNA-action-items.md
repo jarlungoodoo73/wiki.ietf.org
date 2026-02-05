@@ -233,7 +233,7 @@ dateCreated: 2023-01-05T15:02:00.617Z
 > Update: 01/27 link updated.
 
 [[BR]]
-* AI (Chairs): to discuss the the policy for putting the data in stack vs. outside the stack (proposed by Kireeti)
+* AI (Chairs): to discuss the policy for putting the data in stack vs. outside the stack (proposed by Kireeti)
 > Owner: Chairs [[BR]]
 > Status: to add to agenda of 12/2 [[BR]]
 > Update: Kireeti gave an update on 12/2. He promised to include text in the draft and work with Mathew if any requirements need to be added to requirements draft.

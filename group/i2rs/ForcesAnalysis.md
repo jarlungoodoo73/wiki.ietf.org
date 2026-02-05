@@ -75,7 +75,7 @@ At a minimum, the I2RS Agent and associated router should be able to handle a co
 
 The ForCES protocol is binary with design to have high transaction rates.
 
-e) *Low Latency: It MUST be possible to complete simple I2RS operations within a sub-second time-scale. It SHOULD be possible to to possible to process bulk data intensive operations (eg a table dump or update) with low latency.*
+e) *Low Latency: It MUST be possible to complete simple I2RS operations within a sub-second time-scale. It SHOULD be possible to process bulk data intensive operations (eg a table dump or update) with low latency.*
 
 The ForCES protocol is binary with very low operational overhead. The ForCES protocol achieves these goals.
 

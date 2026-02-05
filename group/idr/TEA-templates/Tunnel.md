@@ -30,7 +30,7 @@ Tunnel encapsulation specification requires the following things for each tunnel
 2. Code 
 3. Description 
 4. List of All NLRIs this tunnel can be used with 
-5. List of all Sub-TLVs that can be passed in in this Tunnel TLV (optional and mandatory). 
+5. List of all Sub-TLVs that can be passed in this Tunnel TLV (optional and mandatory). 
 6. List of all Sub-TLVs that are not supported by this Tunnel TLV 
 
 7. A validation procedures 

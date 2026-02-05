@@ -33,7 +33,7 @@ Proposed Work: Containerized Infrastructure and Test Device YANG Model Drafts bo
 
 ## DNSOP
 
-DNSOP had two sessions at IETF106. The first session worked through WGLC issues with draft-ietf-dnsop-extended-error which the chairs feel was successful. There was also a deep discussion on draft-ietf-dnsop-svcb-httpssvc and the status of the the RR Type and what may need to be worked on. One decision is the names of the new RR Type is not something anyone has strong opinions about, and the authors put a poll together. In the second session, there was updates on existing documents, which are moving forward. The presentation on draft-arends-private-use-tld brought up all the 6761 discussions and there was and is much bike shedding with no real idea moving forward. The document draft-brotman-rdbd one of the chairs feels is relevant to DNSO
+DNSOP had two sessions at IETF106. The first session worked through WGLC issues with draft-ietf-dnsop-extended-error which the chairs feel was successful. There was also a deep discussion on draft-ietf-dnsop-svcb-httpssvc and the status of the RR Type and what may need to be worked on. One decision is the names of the new RR Type is not something anyone has strong opinions about, and the authors put a poll together. In the second session, there was updates on existing documents, which are moving forward. The presentation on draft-arends-private-use-tld brought up all the 6761 discussions and there was and is much bike shedding with no real idea moving forward. The document draft-brotman-rdbd one of the chairs feels is relevant to DNSO
 
 ## GROW
 

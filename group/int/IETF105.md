@@ -10,7 +10,7 @@ dateCreated: 2022-12-15T05:10:25.701Z
 
 ## 6MAN 
 
-The 6MAN working group met for a one one hour session on Tuesday and one one and a half hour session on Thursday at IETF105. The session was well attended.
+The 6MAN working group met for a one hour session on Tuesday and one and a half hour session on Thursday at IETF105. The session was well attended.
 
 The agenda, and slides from 6MAN are available at: https://datatracker.ietf.org/meeting/105/materials.html.
  
