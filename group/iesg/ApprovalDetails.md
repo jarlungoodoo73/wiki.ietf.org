@@ -16,7 +16,7 @@ However, sometimes the AD needs to follow a few extra steps.
 
   -  If the AD needs to update the notes after the Telechat (e.g., to add an RFC Editor Note to handle an IESG Comment) then the Secretariat will place the document in "Approved Announcement to be Sent :: Point Raised Writeup Needed" state.
   -  If some other follow-up is needed (e.g., checking on some fact) then the Secretariat will place the document in "Approved Announcement to be Sent :: Point Raised Writeup Needed" state.
-  -  If another revision of the document is necessary (e.g., to address a number of IESG Comments that are too many or complicated to be covered in an RFC Editor Note) the the Secretariat will place the document in "Approved Announcement to be Sent :: Revised I-D Needed" state. 
+  -  If another revision of the document is necessary (e.g., to address a number of IESG Comments that are too many or complicated to be covered in an RFC Editor Note) the Secretariat will place the document in "Approved Announcement to be Sent :: Revised I-D Needed" state. 
 
 If a document revision is produced, the responsible AD is expected to check the changes in a manner similar to how AUTH48 changes are being checked, and if substantial changes occur, brings the document back to the IESG review.
 

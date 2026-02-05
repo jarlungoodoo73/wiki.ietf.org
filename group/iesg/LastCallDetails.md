@@ -32,7 +32,7 @@ RFC 2026 and RFC 2418 discuss the two-week and four-week IETF Last Call for docu
 The method of adding the custom text is press the button for regenerating the Last Call text in the tracker, then to edit the text, then press the button to Request Last Call.
 ### IPR Statements
 
-If an IPR statement has been submitted against the I-D, then the Datatracker will automatically include a link the the IPR statement. If the AD is aware of relevant IPR statements that have been submitted but are not associated with the I-D filename, then the Datatracker will not automatically find them and the AD should modify the Last Call announcement to include them.
+If an IPR statement has been submitted against the I-D, then the Datatracker will automatically include a link the IPR statement. If the AD is aware of relevant IPR statements that have been submitted but are not associated with the I-D filename, then the Datatracker will not automatically find them and the AD should modify the Last Call announcement to include them.
 ### Some other cases where the announcement text should be modified
 
    - When the document contains a downref, and is being moved forward on the Standards Track anyway, the AD must clearly note this in the Last Call.

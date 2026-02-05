@@ -57,7 +57,7 @@ For comments received during the MPLS-RT review - and for any comment on any dra
 ### IPR Poll
 While the document is in "Candidate"-state we also do a first IPR poll. All the authors are asked to confirm if they are aware of IPRs that relate to the draft or not, any participant in the working group are asked to disclose any relevant IPRs that they are aware of.
 
-Once the the steps above are complete we are ready to move the document into:
+Once the steps above are complete we are ready to move the document into:
 
 ## Call for working group adoption issued
 The call for adoption poll is not intended to change a document, the question is whether the document
@@ -72,7 +72,7 @@ The format of the working group document file-name is draft -ietf-wg-foo-bar
 ## Working Group Document (WG Document)
 As a document is accepted as a working document it is placed in a state called WG Document.
 
-In the WG Document state the working group takes over revision control of the document, and this is the state where the the working group does most of it work.
+In the WG Document state the working group takes over revision control of the document, and this is the state where the working group does most of it work.
 
 When there is a feeling that the document is ready for working group last call, a new WG chair and or Document Shepherd review is undertaken, a new IPR poll is done and eventually the Working Group Last Call (wglc) is started.
 

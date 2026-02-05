@@ -19,7 +19,7 @@ There has been active discussions on the mailing list since the last IETF, with 
 
 The main topics for the London meeting, was the "Why /64" document, that is a document that explains why the /64 boundary was chosen, and also explores the consequences of changing that boundary, if we ever wanted to do that. There was strong support in the room for adopting this document as a working group document. We also had a 45 minute session to talk about efficient ND. Both with regards to battery efficiency, and how ND behaves on link-layers that do not handle multicast well. The chairs have decided to form a design team to work on this problem, anyone interested in participating should contact the chairs. The design team is expected to report back to the working group at the Toronto IETF meeting.
 
-There was also consensus in the the room to adopt the following drafts:
+There was also consensus in the room to adopt the following drafts:
 
 * draft-gont-6man-lla-opt-validation
 
@@ -33,7 +33,7 @@ There has a been active discussions a number of drafts on privacy aspects of IPv
 
 The working group also had discussions on "Deprecating IPv6 fragmentation", draft-bonica-6man-frag-deprecate. It is too early to draw any conclusions, but this work might drive work on e.g. segmentation in connection-less transport layers, better path MTU discovery and so on. This draft was also discussed in the transport area.
 
-There was consensus in the the room to adopt the following drafts:
+There was consensus in the room to adopt the following drafts:
 
 * draft-cooper-6man-ipv6-address-generation-privacy
 * draft-droms-6man-multicast-scopes

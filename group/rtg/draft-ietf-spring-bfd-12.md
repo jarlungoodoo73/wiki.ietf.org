@@ -62,7 +62,7 @@ I have a some concerns about the IANA Considerations. Ketan had almost the same 
     way  you do.
     
     However you assign it from a range that require a response
-    if the the TLV is not recognized, which is fine if that is
+    if the TLV is not recognized, which is fine if that is
     what you want. If that is the case this need to be
     described in section 3.1.
     

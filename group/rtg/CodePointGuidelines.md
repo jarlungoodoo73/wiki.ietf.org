@@ -54,7 +54,7 @@ Under certain circumstances "Early Allocation" is possible see RFC 7120.
 
 Code points allocated by the Early Allocation process can be entered in to the document as soon as they have been entered into the IANA registry.
 
-Please not that Code Points allocated through the Early Allocation process has a life time of one year, if the document has not made it to RFC in that time the Working Group Chairs will have to either remove the the code point or ask for an extension.
+Please not that Code Points allocated through the Early Allocation process has a life time of one year, if the document has not made it to RFC in that time the Working Group Chairs will have to either remove the code point or ask for an extension.
 
 ## Publication Request
 

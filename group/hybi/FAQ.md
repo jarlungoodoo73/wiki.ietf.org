@@ -36,7 +36,7 @@ What is the computation in handshake made to prevent ?
 The computation, as compared to the requirement of "101" response code and the "echo" procedure, is meant to prevent a caching intermediary from providing a WS-client with an cached WS-server reply without actual interaction with the WS-server. This is prevented by adding a challenge from the browser UA agent which is not visible from within to the JS author. This challenge is then processed in a WS-specific manner on the server. Issuing a new challenge each time ensures that a cached response will be invalidated as the response will not fit the challenge issued.
 
 ## Question 2
-Why does the the current specification use hashing in the handshake computation ?
+Why does the current specification use hashing in the handshake computation ?
 
 ## Question 3
 From the discussion on hybi mailing list, it seems that static POST headers added to each WS packet would make sure the data does not cause problems with intermediaries, or at least does not cause more problems than HTTP POST itself does.

@@ -50,7 +50,7 @@ If the header field has a nominal disposition type of "inline" or if the header 
 Otherwise, the header field's disposition type is "attachment".
 ## Determining the File Name
 
-If the header field has a "filename*" parameter and the value of the "filename*" parameter is an [RFC5987](http://tools.ietf.org/html/rfc5987)-value, then the header field's file name is the the [RFC5987](http://tools.ietf.org/html/rfc5987)-decoding of the value of the "filename*" parameter.
+If the header field has a "filename*" parameter and the value of the "filename*" parameter is an [RFC5987](http://tools.ietf.org/html/rfc5987)-value, then the header field's file name is the [RFC5987](http://tools.ietf.org/html/rfc5987)-decoding of the value of the "filename*" parameter.
 
 Otherwise, if the header field has a "filename" parameter, then the header field's file name is the filename-decoding (defined below) of the value of the "filename" parameter.
 ## Decoding Filename Parameter Values

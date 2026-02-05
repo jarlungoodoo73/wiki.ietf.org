@@ -86,7 +86,7 @@ If you are responsible for content on an existing IETF wiki there are a number o
 > If a page doesn't already exist for your group, you can create it by simply navigating to:
 > 	``https://wiki.ietf.org/group/{{group acronym}}``
 > 
-> e.g., the main wiki page for the the [6man Working Group](https://datatracker.ietf.org/group/6man/about/) is at https://wiki.ietf.org/group/6man
+> e.g., the main wiki page for the [6man Working Group](https://datatracker.ietf.org/group/6man/about/) is at https://wiki.ietf.org/group/6man
 {.is-info}
 
 2. Subpages for any particular group can be created using the same method as described above.

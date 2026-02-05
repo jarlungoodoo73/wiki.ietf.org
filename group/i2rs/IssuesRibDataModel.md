@@ -38,7 +38,7 @@ An implementation of this RIB data model MUST support sending route-change notif
 A single notification MAY be used when a route transitions from inactive/uninstalled to active/installed or in the other direction.
 
 ---
-The following changes to the yang model affecting the route-change notification, in particular the route-change-reasons should also be considered. It may also make sense to make the route-change-reason a list in order to return multiple route-change0reasons. This would be useful for the the case where a nexthop becoming resolved makes a route A active which is of better preference than a currently active route B, which results in the route A being installed. Or the text should clarify that this case requires two notifications. Or the text should clarify which single reason should be given in this case.
+The following changes to the yang model affecting the route-change notification, in particular the route-change-reasons should also be considered. It may also make sense to make the route-change-reason a list in order to return multiple route-change0reasons. This would be useful for the case where a nexthop becoming resolved makes a route A active which is of better preference than a currently active route B, which results in the route A being installed. Or the text should clarify that this case requires two notifications. Or the text should clarify which single reason should be given in this case.
 ```
      notification route-change {
        description
