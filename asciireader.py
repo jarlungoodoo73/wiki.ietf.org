@@ -18,7 +18,7 @@ def processPointers(ptrs, message):
     prev = 0
     ptr = int(ptrs[0:4], 16)
     print('String length {0}\n'.format(len(message)))
-    fieldIndex = 0;
+    fieldIndex = 0
     while i < len(ptrs)-4:
         ptrStrNext = ptrs[i:i+4]
         ptrNext = int(ptrStrNext, 16)
@@ -40,9 +40,9 @@ file = open(fileName, "r")
 # NO error handling - assume input is well formatted 
 line1 = line2 = "x"
 while line1 and line2:
-   line1 = file.readline();
+   line1 = file.readline()
    if line1:
-      line2 = file.readline();
+      line2 = file.readline()
       # line 1 contains the pointers in a block in the third comma separated part
       s2 = line1.split(",")
       processPointers(s2[2], line1+line2)
