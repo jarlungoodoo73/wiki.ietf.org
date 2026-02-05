@@ -10,7 +10,7 @@ dateCreated: 2025-03-12T13:28:19.149Z
 
 # EODIR Liaison
 
-The IAB maintains a liaison to EODIR to be informed about education and and outreach activities as well as provide input about the IAB or IAB outreach activities when needed.
+The IAB maintains a liaison to EODIR to be informed about education and outreach activities as well as provide input about the IAB or IAB outreach activities when needed.
 
 Regarding outreach, note that EODIR is mostly focused on new participants and coordination of outreach activities related to that. The IAB coordinates outreach activities of leadership including e.g. fora related to policy in coordination with ISOC.
 

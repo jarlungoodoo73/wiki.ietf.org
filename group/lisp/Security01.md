@@ -68,7 +68,7 @@ Together these properties can be thought of as mapping integrity. The final two 
 
 ### Off path Attacks
 
-Requirement: The mapping system MUST NOT allow an an off-path attacker to violate mapping integrity. An off-path attacker is an attacker who is not on the path that legitimate mapping messages would take.
+Requirement: The mapping system MUST NOT allow an off-path attacker to violate mapping integrity. An off-path attacker is an attacker who is not on the path that legitimate mapping messages would take.
 
 Justification: If an off-path attacker can violate mapping integrity, then the attacker can change the topology, potentially gaining the capabilities of an on-path attacker when mounting attacks in the data-plane at LISP EIDs. See section 3 of RFC 3352. Such attacks would also break assumptions described in section 3.1 of RFC 4218, and violate the requirements of sections 3.1 and 3.2 of that document. In other words, if LISP does not meet this requirement then LISP will not live up to the bar we set for site multi-homing solutions.
 

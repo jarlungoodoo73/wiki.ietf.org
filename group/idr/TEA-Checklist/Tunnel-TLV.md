@@ -21,7 +21,7 @@ dateCreated: 2026-01-19T16:38:28.715Z
 4. List of all NLRIs this Tunnel TLV can be attached to 
 
 5. List of all SubTLVs 
-- that can be passed in in this Tunnel TLV (mandatory and optional).
+- that can be passed in this Tunnel TLV (mandatory and optional).
 - List of all SubTLVs that are not supported by this Tunnel TLV
 
 For each SubTLV, give a reference to the RFC or draft. 

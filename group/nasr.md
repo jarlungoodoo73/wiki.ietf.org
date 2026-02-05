@@ -65,7 +65,7 @@ Q17: Remark about the scope of implementation: Internet or limited domain?
 ---->SRv6 Path Verification(https://datatracker.ietf.org/doc/draft-yang-spring-srv6-verification/), proposes a path verification mechanism for SRv6, the implementation of verification relies on enhancing HMAC.
 
 Q18: Need to verify every configuration (binary / configuration files / routers) in order to determine the properties of the path?
----->This is not how remote attestation works. There is no configuration shared, the configuration is attested through trusted third party. You share hash values that attest the the property. RFC9334/ RFC9683/ RFC9684 for more detailed informations about how to evaluate and verify.
+---->This is not how remote attestation works. There is no configuration shared, the configuration is attested through trusted third party. You share hash values that attest the property. RFC9334/ RFC9683/ RFC9684 for more detailed informations about how to evaluate and verify.
 
 Q19: Why not doing this in the SFC WG?
 ---->Piece can be done in other WG, but from a global perspective wold be better to have a WG.

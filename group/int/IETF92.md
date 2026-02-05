@@ -117,7 +117,7 @@ On Thursday, the first section of the meeting was spend on reviewing the WG draf
 
 Some non-WG drafts were reviewed in to prepare for rechartering
 
--   draft-wang-6tisch-6top-sublayer describes the working of the 6top layer. The work is is required to support dynamic scheduling. It is effectively well-advanced and ready for prime time.
+-   draft-wang-6tisch-6top-sublayer describes the working of the 6top layer. The work is required to support dynamic scheduling. It is effectively well-advanced and ready for prime time.
 -   draft-dujovne-6tisch-on-the-fly describes the decision engine to adapt the bandwidth to fit the needs of stochastic IP flows, typically along RPL routes. The work was presented for 30 minutes and is effectively well-advanced as well.
 
 Then final discussions of the sessions were around.
@@ -164,7 +164,7 @@ Working Team #3 (Forwarding path and signaling Management) presented their concl
 
 Working Team #4 (Distributed mobility management deployment models and scenarios) presented their conclusions so far. No requests to adopt any I-D yet.
 
-Related to the Working Team #4 the I-D draft-matsushima-stateless-uplane-vepc-04 describes one way of deploying distributed mobility system. Some more discussion is still needed around it (there was a preliminary query whether the WG would be interest in working on this this architectural approach. There was 8-9 voices for willing to work on this approach and 0 against).
+Related to the Working Team #4 the I-D draft-matsushima-stateless-uplane-vepc-04 describes one way of deploying distributed mobility system. Some more discussion is still needed around it (there was a preliminary query whether the WG would be interest in working on this architectural approach. There was 8-9 voices for willing to work on this approach and 0 against).
 
 The AERO solution update was also given. There was also two Mobile IP \"maintenance\" related topics. The I-D draft-yan-dmm-hnprenum-00 presents a solution for PMIPv6 renumbering. There is interest to work on this but some more discussion in the WG is still needed. A call for adoption of the I-D draft-perkins-dmm-4283mnids was asked. The sense of the room was 7 for adoption and 0 against.
 

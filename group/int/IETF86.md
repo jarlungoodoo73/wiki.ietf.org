@@ -161,7 +161,7 @@ The HIP WG is chartered to finish an old Experimental RFC and to revise the main
 
 The old Experimental RFC is the following one: https://datatracker.ietf.org/doc/draft-ietf-hip-reload-instance/
 
-This draft was simply waiting for the RELOAD spec to be approved. Now that that has finally happened, this draft is being progressed. There are no open issues.
+This draft was simply waiting for the RELOAD spec to be approved. Now that has finally happened, this draft is being progressed. There are no open issues.
 
 The WG also has a few \"bis\" drafts. They revise the old Experimental HIP specs. Additionally, there are a couple of drafts that are spin offs of those specs: the NAT traversal mechanism and the multihoming part of the mobility and multihoming spec. We decided to document these in separate specs for clarity.
 

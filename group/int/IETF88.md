@@ -143,7 +143,7 @@ The 6man working group held a two and a half hour session on the Monday morning 
 
 The work on privacy aspects of IPv6 addresses continued, and also on deprecating EUI-64 based interface-identifers, a discussion which has been thoroughly discussed on the mailing list. There is an identified gap in how applications is supposed to deal with the various types of interface-identifiers.
 
-There was consensus in the the room to adopt draft-gont-6man-deprecate-eui64-based-addresses-00, and moderate support to adopt draft-chakrabarti-nordmark-6man-efficient-nd. Both of these will be confirmed on the mailing list. In addition there is consensus in the room to drop publishing the draft-ietf-6man-addr-select-considerations document.
+There was consensus in the room to adopt draft-gont-6man-deprecate-eui64-based-addresses-00, and moderate support to adopt draft-chakrabarti-nordmark-6man-efficient-nd. Both of these will be confirmed on the mailing list. In addition there is consensus in the room to drop publishing the draft-ietf-6man-addr-select-considerations document.
 
 At the Vancouver meeting we tried a new format to present new ideas. A speed talk, where each speaker was given 3 slides and 5 minutes, that was quite successful. Since Berlin the 6man working group has used volunteer reviewers for all documents prior to advancing the documents to the IESG. The reviewers have done an excellent job and this not only makes the chairs job easier, it also results in better document quality.
 

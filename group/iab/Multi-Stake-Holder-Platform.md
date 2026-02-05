@@ -427,7 +427,7 @@ Action 3: The creation of an intelligent Dashboard to support SMEs, in which the
 
 Action 4: SDOs to set up processes for eliciting industry standardisation needs, and industry alliances to coordinate their experts' efforts to contribute to standardisation.
 
-Action 5:  SDOs should further increase their coordination efforts in Europe and internationally around Quantum Technologies standardisation in order to to avoid overlap or unnecessary duplication of efforts.
+Action 5:  SDOs should further increase their coordination efforts in Europe and internationally around Quantum Technologies standardisation in order to avoid overlap or unnecessary duplication of efforts.
 
 Action 6: SDOs should appropriately consider the effect of quantum computing and Quantum communication technologies on cybersecurity and provide an overview and analyse whether new standards or updates of existing standards on safety, privacy and cybersecurity are required.
 

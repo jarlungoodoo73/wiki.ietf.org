@@ -165,7 +165,7 @@ SR-MPLS is not a wellknow abbreviation, so it need to expanded at first use. If 
 ### Terminology
 
 #### Consistency
-This is is inconsistence, sometimes there is a ":" between the abbreviation and expansion, sometime not. I prefer with the ":".
+This is inconsistence, sometimes there is a ":" between the abbreviation and expansion, sometime not. I prefer with the ":".
 
 #### SR-MPLS
 
