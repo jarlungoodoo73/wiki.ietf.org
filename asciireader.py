@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 # Simple script to check the ASCII indexing
 #
  
@@ -17,23 +17,23 @@ def processPointers(ptrs, message):
     i = 4
     prev = 0
     ptr = int(ptrs[0:4], 16)
-    print 'String length {0}\n'.format(len(message))
+    print('String length {0}\n'.format(len(message)))
     fieldIndex = 0;
     while i < len(ptrs)-4:
         ptrStrNext = ptrs[i:i+4]
         ptrNext = int(ptrStrNext, 16)
-        print 'str={3} {4:<16} message[{0}:{1}] = {2}\n'.format( ptr, ptrNext, message[ptr:ptrNext], ptrStrNext, fields[fieldIndex]) 
+        print('str={3} {4:<16} message[{0}:{1}] = {2}\n'.format( ptr, ptrNext, message[ptr:ptrNext], ptrStrNext, fields[fieldIndex])) 
         fieldIndex += 1
         i += 4
         ptr = ptrNext
 #
 # MAIN
 #
-if sys.argv[1]:
+if len(sys.argv) > 1:
     fileName = sys.argv[1]
 else:
-    print "Usage: asciReader.py <filename>"
-    exit
+    print("Usage: asciReader.py <filename>")
+    sys.exit(1)
     
 file = open(fileName, "r")
 
