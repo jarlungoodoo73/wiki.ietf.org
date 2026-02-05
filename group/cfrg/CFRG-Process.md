@@ -17,7 +17,7 @@ dateCreated: 2022-12-28T23:01:58.095Z
 - [Research Group Last Call (RGLC)](#research-group-last-call)
 - [CFRG Document Publishing Process](#cfrg-document-publishing-process)
 - [Guidelines and Expectations](#guidelines-and-expectations)
-	- [Editor/Author Guidelines and Expectations](#editor-author-guidelines-and-expectations)[SecurityConsiderations](/group/oauth/SecurityConsiderations)
+	- [Editor/Author Guidelines and Expectations](#editor-author-guidelines-and-expectations)
 	- [Contributor Expectations](#contributor-expectations)
 	- [Expert Reviewer Expectations](#expert-reviewer-expectations)
 	- [General Public Expectations](#general-public-expectations)

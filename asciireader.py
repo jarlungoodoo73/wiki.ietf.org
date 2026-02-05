@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 # Simple script to check the ASCII indexing
 #
  
@@ -17,32 +17,32 @@ def processPointers(ptrs, message):
     i = 4
     prev = 0
     ptr = int(ptrs[0:4], 16)
-    print 'String length {0}\n'.format(len(message))
-    fieldIndex = 0;
+    print('String length {0}\n'.format(len(message)))
+    fieldIndex = 0
     while i < len(ptrs)-4:
         ptrStrNext = ptrs[i:i+4]
         ptrNext = int(ptrStrNext, 16)
-        print 'str={3} {4:<16} message[{0}:{1}] = {2}\n'.format( ptr, ptrNext, message[ptr:ptrNext], ptrStrNext, fields[fieldIndex]) 
+        print('str={3} {4:<16} message[{0}:{1}] = {2}\n'.format( ptr, ptrNext, message[ptr:ptrNext], ptrStrNext, fields[fieldIndex])) 
         fieldIndex += 1
         i += 4
         ptr = ptrNext
 #
 # MAIN
 #
-if sys.argv[1]:
+if len(sys.argv) > 1:
     fileName = sys.argv[1]
 else:
-    print "Usage: asciReader.py <filename>"
-    exit
+    print("Usage: asciReader.py <filename>")
+    sys.exit(1)
     
 file = open(fileName, "r")
 
 # NO error handling - assume input is well formatted 
 line1 = line2 = "x"
 while line1 and line2:
-   line1 = file.readline();
+   line1 = file.readline()
    if line1:
-      line2 = file.readline();
+      line2 = file.readline()
       # line 1 contains the pointers in a block in the third comma separated part
       s2 = line1.split(",")
       processPointers(s2[2], line1+line2)
